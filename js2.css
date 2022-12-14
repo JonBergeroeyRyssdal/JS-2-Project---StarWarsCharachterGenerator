@@ -1,0 +1,31 @@
+body {
+    color: red;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    flex-basis: 45%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 400px;
+    flex-basis: 100%;
+}
+
+button {
+    margin-top: 20px;
+    font-size: x-large;
+    flex-basis: 100%;
+    color: red;
+    background-color: yellow;
+}
+
+h2 {
+    flex-basis: 50%;
+}
